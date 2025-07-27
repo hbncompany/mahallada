@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "415922539355",
+    "project_id": "mahallada-app",
+    "storage_bucket": "mahallada-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415922539355:android:4459e7544de5564cb5a87e",
+        "android_client_info": {
+          "package_name": "com.hbncompany.mahallada_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415922539355-ju1ura2ftqls3jiadvsoeillss07r8uk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hbncompany.mahallada_app",
+            "certificate_hash": "ef14fbb0bf33217205267dd6d3fb5b89efa85e00"
+          }
+        },
+        {
+          "client_id": "415922539355-adi18gelh70f5hds6u1e60srq5bq38tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgdXhY-KYsj_qudluF-eJ136zyBlzLoQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415922539355-adi18gelh70f5hds6u1e60srq5bq38tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
